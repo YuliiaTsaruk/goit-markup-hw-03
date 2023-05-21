@@ -59,7 +59,7 @@ img {
   max-width: 1128px;
   padding: 0 15px;
   margin: 0 auto;
-  border: 2px solid tomato;
+  /* border: 2px solid tomato; */
 }
 
 .sectione {
